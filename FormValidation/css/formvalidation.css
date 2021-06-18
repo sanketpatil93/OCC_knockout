@@ -1,0 +1,31 @@
+body {
+  background-color: lightskyblue;
+}
+
+hr {
+  border-top: 1px solid #ffff;
+}
+
+.formDiv .container>h1 {
+  color: #FFA500;
+}
+
+.resultDiv {
+  background-color: #b1df0a;
+}
+
+.editbtn {
+  color: royalblue;
+}
+
+.deletebtn {
+  color: darkred;
+}
+
+.validationMessage {
+  color: #f00;
+}
+
+.customMessage {
+  color: #FFA500;
+}
